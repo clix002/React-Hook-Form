@@ -4,4 +4,4 @@
 
 # React-Hook-Form js
 
-![imagen js]("./public/image.png")
+![imagen js]("./js/public/image.png")
